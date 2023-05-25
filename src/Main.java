@@ -4,13 +4,13 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 //      Solicitar al usuario un número de cliente. Si el número es el 1000, imprimir
 //      “Ganaste un premio” de lo contrario imprimir “Sigue participando”
-        System.out.println("Ingrese un numero");
-        int num = sc.nextInt();
-        if (num == 1000){
-            System.out.println("Ganaste un premio");
-        }else {
-            System.out.println("Sigue participando");
-        }
+//        System.out.println("Ingrese un numero");
+//        int num = sc.nextInt();
+//        if (num == 1000){
+//            System.out.println("Ganaste un premio");
+//        }else {
+//            System.out.println("Sigue participando");
+//        }
 
 
 //        Solicitar al usuario que ingrese dos números e imprima cuál de los dos
